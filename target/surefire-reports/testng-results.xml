@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30" started-at="2018-02-21T08:00:43Z" finished-at="2018-02-21T08:00:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30" started-at="2018-02-21T08:00:43Z" finished-at="2018-02-21T08:00:43Z">
+      <class name="asokNLPractice.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:asokNLPractice.SeleniumTest@5a61f5df]" name="BrowserAutomation" duration-ms="8" started-at="2018-02-21T13:30:43Z" finished-at="2018-02-21T13:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:asokNLPractice.SeleniumTest@5a61f5df]" name="elementsUi" duration-ms="1" started-at="2018-02-21T13:30:43Z" finished-at="2018-02-21T13:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+        <test-method status="PASS" signature="helloWorld()[pri:0, instance:asokNLPractice.SeleniumTest@5a61f5df]" name="helloWorld" duration-ms="1" started-at="2018-02-21T13:30:43Z" finished-at="2018-02-21T13:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld -->
+      </class> <!-- asokNLPractice.SeleniumTest -->
+      <class name="asokNLPractice.RestApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:asokNLPractice.RestApiTest@90f6bfd]" name="deleteTwitter" duration-ms="1" started-at="2018-02-21T13:30:43Z" finished-at="2018-02-21T13:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:asokNLPractice.RestApiTest@90f6bfd]" name="postJira" duration-ms="0" started-at="2018-02-21T13:30:43Z" finished-at="2018-02-21T13:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- asokNLPractice.RestApiTest -->
+      <class name="asokNLPractice.AppiumTest">
+        <test-method status="PASS" signature="IosApps()[pri:0, instance:asokNLPractice.AppiumTest@36f6e879]" name="IosApps" duration-ms="0" started-at="2018-02-21T13:30:43Z" finished-at="2018-02-21T13:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:asokNLPractice.AppiumTest@36f6e879]" name="nativeAppAndroid" duration-ms="0" started-at="2018-02-21T13:30:43Z" finished-at="2018-02-21T13:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- asokNLPractice.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
